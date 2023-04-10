@@ -4,7 +4,7 @@ Dinámica y control de robots |  Determinar la matriz Jacobiana para obtener la 
 
 ## **ÍNDICE**
 
-* [1. Intro](#)
+* [1. Intro](https://github.com/AlondraRdz01/Matriz-Jacobiana-Jv-Jw-/blob/main/README.md#1intro)
 * [2. Qúe construí](#)
 * [3. Objetivo del Proyecto](#)
 
